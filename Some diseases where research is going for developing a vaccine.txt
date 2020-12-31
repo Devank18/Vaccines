@@ -1,0 +1,19 @@
+<html>
+<head>
+<title> Some diseases where research is going on for developing a vaccine. </title>
+</head>
+<body>
+ <h1> <p align = "center"> Some diseases where research is going on for developing a vaccine. </p> </h1>
+<img src= "Uses.jpeg">
+<p align = "justify"> <ul type ="Circle"><li>Corona Virus(Novel Corona Virus) ,a.k.a, Covid-19.​</li>
+
+<li>Ebola Virus​</li>
+
+<li>Chikungunya Virus</li>​
+</ul>
+</p>
+<a href= "Home.html">
+Go back to home page
+</a>
+</body>
+</html>

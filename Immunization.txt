@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Immunization</title>
+</head>
+<body>
+ <h1> <p align = "center"> Immunization </p> </h1>
+<img src= "Importance.jpeg">
+<p align = "justify"> Immunization is the process of giving a vaccine to a person to protect them against disease. Immunity (protection) by immunization is similar to the immunity a person would get from disease, but instead of getting the disease you get a vaccine. This is what makes vaccines such powerful medicine
+</p>
+<a href= "Home.html">
+Go back to home page
+</a>
+</body>
+</html>

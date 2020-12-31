@@ -1,0 +1,14 @@
+<html>
+<head>
+<title> Vaccination </title>
+</head>
+<body>
+ <h1> <p align = "center"> Vaccination </p> </h1>
+<img src= "Importance.jpeg">
+<p align = "justify"> It is the administration of a vaccine to help the immune system develop protection from a disease. Vaccines contain a microorganism or virus in a weakened, live or killed state, or proteins or toxins from the organism.
+</p>
+<a href= "Home.html">
+Go back to home page
+</a>
+</body>
+</html>

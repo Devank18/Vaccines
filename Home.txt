@@ -1,0 +1,31 @@
+  <html>
+<head>
+<title> Vaccine </title>
+</head>
+<body> 
+<font color="#8000000"> 
+<h1> <p align="center"> Vaccines </p> <font color="#8000000"> </font></h1>
+<h2> <p align="center"> Computer Winter Project </p> </h2>
+<h3> <p align="center"> By- Devank Chandak 8D </p> </h3><p align="center">
+<p align = "justify"> It is a substance used to stimulate the production of antibodies and provide immunity against one or several diseases.
+It prevent our body by immunizing it.A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease.<br>
+
+A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. The agent stimulates the body's immune system to recognize the agent as a threat, destroy it, and to further recognize and destroy any of the microorganisms associated with that agent that it may encounter in the future. <br>
+            <br><p align = "justify">
+<br> <a href="http://Vaccination.html" > 
+      Vaccination
+      </a></br>
+<br> <a href="http://Types.html" > 
+      Immunization
+      </a></br>
+      <br> <a href="http://Immunization.html" > 
+      Immunization
+      </a></br>
+      <br> <a href="http://Vaccine for Covid-19.html" > 
+      Vaccine for Covid-19
+      </a></br>
+      <br> <a href="http://Some diseases where research is going on for developing a vaccine.html" > 
+      Some diseases where research is going on for developing a vaccine.
+      </a></br>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<html>
+<head>
+<title> Types </title>
+</head>
+<body>
+ <h1> <p align = "center"> Types </p> </h1>
+<img src= "Types.jpg">
+<p align = "justify"> There are five main types of vaccines: <ol>
+<li>attenuated (live) vaccines</li>
+<li>inactivated vaccines</li>
+<li>toxoid vaccines</li>
+<li>subunit vaccines</li>
+<li>conjugate vaccines</li>
+</ol>
+</p>
+<a href= "Home.html">
+Go back to home page
+</a>
+</body>
+</html>

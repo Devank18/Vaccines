@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> Vaccine for Covid-19 </title>
+</head>
+<body>
+ <h1> <p align = "center"> Vaccine for Covid-19 </p> </h1>
+<img src= "Uses.jpeg">
+<p align = "justify"> The world is in the midst of a COVID-19 pandemic. As WHO and partners work together on the response -- tracking the pandemic, advising on critical interventions, distributing vital medical supplies to those in need--- they are racing to develop and deploy safe and effective vaccines. 
+
+Vaccines save millions of lives each year. Vaccines work by training and preparing the body’s natural defences --- the immune system--- to recognize and fight off the viruses and bacteria they target. If the body is exposed to those disease-causing germs later, the body is immediately ready to destroy them, preventing illness.
+
+There are currently more than 50 COVID-19 vaccine candidates in trials. WHO is working in collaboration with scientists, business, and global health organizations through the ACT Accelerator to speed up the pandemic response. When a safe and effective vaccine is found, COVAX (led by WHO, GAVI and CEPI) will facilitate the equitable access and distribution of these vaccines to protect people in all countries. People most at risk will be prioritized. While we work towards rolling out a safe and effective vaccine fairly, we must continue the essential public health actions to suppress transmission and reduce mortality. 
+</p>
+<a href= "Home.html">
+Go back to home page
+</a>
+</body>
+</html>
